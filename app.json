@@ -31,15 +31,15 @@
       "required": true
     },
     "HEROKU_APP_NAME": {
-      "description": "Nama App heroku, Nama App yang paling pertama di isi (liat paling atas)",
-      "required": true
+      "description": "Nama App heroku, Nama App yang paling pertama di isi (liat p)",
+      "required": false
     },
     "HEROKU_API_KEY": {
-      "description": "Ambil Heroku API KEY mu disini » https://dashboard.heroku.com/account",
+      "description": "HRKU-c4de382b-ab9f-428f-873c-c5ef58337f87",
       "required": true
     },
     "BOTLOG_CHATID": {
-      "description": "Buatlah grup telegram publik lalu masukan @MissRose_bot ketik /id, masukan id grup nya disini.",
+      "description": "-1002325740158",
       "required": true
     },
     "PM_AUTO_BAN": {
