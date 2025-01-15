@@ -8,19 +8,19 @@
   "env": {
   "ALIVE_NAME": {
       "description": "Masukan Nama untuk menunjukan pesan di perintah .alive / .afk / .ping dan lain lain",
-      "required": true
+      "required": false
     },
     "API_KEY": {
-      "description": "Dapatkan API KEY di web my.telegram.org Masukan yg APP ID Telegram",
+      "description": "22642480",
       "required": true
     },
     "API_HASH": {
-      "description": "Dapatkan API Hash di web my.telegram.org",
+      "description": "HRKU-c4de382b-ab9f-428f-873c-c5ef58337f87",
       "required": true
     },
     "BOT_TOKEN": {
-      "description": "Buat Bot di t.me/botfather Masukan BOT tokennya disini",
-      "required": false
+      "description": "7934567810:AAGDN5sCsrPpISWOqVMQcUhd94PhZeINQu4",
+      "required": true
     },
     "BOT_USERNAME": {
       "description": "Buat Bot di t.me/botfather Masukan BOT Usernamenya pake @",
