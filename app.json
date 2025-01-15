@@ -8,22 +8,22 @@
   "env": {
   "ALIVE_NAME": {
       "description": "Masukan Nama untuk menunjukan pesan di perintah .alive / .afk / .ping dan lain lain",
-      "required": true
+      "required": false
     },
     "API_KEY": {
       "description": "Dapatkan API KEY di web my.telegram.org Masukan yg APP ID Telegram",
-      "required": true
+      "required": false
     },
     "API_HASH": {
       "description": "Dapatkan API Hash di web my.telegram.org",
-      "required": true
+      "required": false
     },
     "BOT_TOKEN": {
       "description": "Buat Bot di t.me/botfather Masukan BOT tokennya disini",
-      "required": false
+      "required": true
     },
     "BOT_USERNAME": {
-      "description": "Buat Bot di t.me/botfather Masukan BOT Usernamenya pake @",
+      "description": "@fxyybc",
       "required": false
     },
      "STRING_SESSION": {
@@ -32,11 +32,11 @@
     },
     "HEROKU_APP_NAME": {
       "description": "Nama App heroku, Nama App yang paling pertama di isi (liat paling atas)",
-      "required": true
+      "required": false
     },
     "HEROKU_API_KEY": {
       "description": "Ambil Heroku API KEY mu disini » https://dashboard.heroku.com/account",
-      "required": true
+      "required": false
     },
     "BOTLOG_CHATID": {
       "description": "Buatlah grup telegram publik lalu masukan @MissRose_bot ketik /id, masukan id grup nya disini.",
