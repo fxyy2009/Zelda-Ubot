@@ -31,7 +31,7 @@
       "required": true
     },
     "HEROKU_APP_NAME": {
-      "description": "Nama App heroku, Nama App yang paling pertama di isi (liat p)",
+      "description": "ZEDA USERBOT",
       "required": false
     },
     "HEROKU_API_KEY": {
